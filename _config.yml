@@ -1,4 +1,3 @@
-layout_spectrum: 0.6981057066004723
 typography_spectrum: 0.09520331653766334
 color:
   brandStrength: 0.6405929089523852
@@ -11,5 +10,10 @@ color:
     - '#909295'
     - '#C8C9CB'
     - '#991B50'
+layout_spectrum: 0.6981057066004723
 name: Steve GW Today Aug Art Show
+navigation:
+  - name: Home
+    url: 'http://stevegw.today'
+    type: external
 title: Letting people see is the goal
