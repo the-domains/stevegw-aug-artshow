@@ -1,16 +1,16 @@
-typography_spectrum: 0.345928568392992
+typography_spectrum: 0.09520331653766334
 color:
-  brandStrength: 0.9214402341749519
-  lightness: 0.5230503708589822
-  saturation: 0.6786141141783446
-  rhythmicContrast: 0.3762935483828187
+  brandStrength: 0.6405929089523852
+  lightness: 0.6696004555560648
+  saturation: 0.8150841328315437
+  rhythmicContrast: 0.05381079507060349
   brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
-layout_spectrum: 0.15436245664022863
+    - '#000000'
+    - '#FFFFFF'
+    - '#909295'
+    - '#C8C9CB'
+    - '#991B50'
+layout_spectrum: 0.6981057066004723
 name: Steve GW Today Aug Art Show
 navigation:
   - name: Home
