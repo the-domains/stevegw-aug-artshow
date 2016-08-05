@@ -6,9 +6,9 @@ color:
   saturation: 0.8150841328315437
   rhythmicContrast: 0.05381079507060349
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#FFFFFF'
+    - '#909295'
+    - '#C8C9CB'
+    - '#991B50'
 name: Stevegw-aug-artshow
