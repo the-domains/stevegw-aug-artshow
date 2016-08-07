@@ -1,16 +1,16 @@
-typography_spectrum: 0.5053086644038558
+typography_spectrum: 0.36427836678922176
 color:
-  brandStrength: 0.6066966983489692
-  lightness: 0.7498511348385364
-  saturation: 0.9157516097184271
-  rhythmicContrast: 0.01592730777338147
+  brandStrength: 0.07399452500976622
+  lightness: 0.13755498244427145
+  saturation: 0.915686939144507
+  rhythmicContrast: 0.7469976234715432
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-layout_spectrum: 0.5141687754075974
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.8379005081951618
 name: Aug Art Show
 navigation:
   - name: Home
