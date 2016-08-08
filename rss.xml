@@ -4,8 +4,15 @@
         <description><![CDATA[Letting people see is the goal]]></description>
         <link>https://thegrid.ai/stevegw-aug-artshow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 00:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 01:13:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-aug-artshow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7d5200-6eeb-447b-ab7a-8084899ad20b.jpg">]]></description>
+            <link>https://thegrid.ai/stevegw-aug-artshow/0c6c2c63-89a1-4f15-92c0-78bd0600aba3/index.html</link>
+            <guid isPermaLink="false">0c6c2c63-89a1-4f15-92c0-78bd0600aba3</guid>
+            <pubDate>Mon, 08 Aug 2016 01:13:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UNDER COVER]]></title>
             <description><![CDATA[<article><h1>UNDER COVER</h1><p>Pastel 16x20</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b391ced-6d46-4397-8376-e9b6835edd8e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc75738e-997d-4030-bec4-b77296ed3d96.jpg">]]></description>
             <link>https://thegrid.ai/stevegw-aug-artshow/069fe730-ae01-46c3-abf7-23c9d8f134cb/index.html</link>
             <guid isPermaLink="false">069fe730-ae01-46c3-abf7-23c9d8f134cb</guid>
-            <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9179adfd-a53a-4a7c-b89d-654281d3e15f.jpg">]]></description>
-            <link>https://thegrid.ai/stevegw-aug-artshow/b099337a-c351-4abe-89fb-c0594fac9148/index.html</link>
-            <guid isPermaLink="false">b099337a-c351-4abe-89fb-c0594fac9148</guid>
             <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
         </item>
     </channel>
