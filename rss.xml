@@ -4,8 +4,15 @@
         <description><![CDATA[Letting people see is the goal]]></description>
         <link>https://thegrid.ai/stevegw-aug-artshow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 13:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 13:33:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-aug-artshow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bowl Collection]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9179adfd-a53a-4a7c-b89d-654281d3e15f.jpg">]]></description>
+            <link>https://thegrid.ai/stevegw-aug-artshow/b099337a-c351-4abe-89fb-c0594fac9148/index.html</link>
+            <guid isPermaLink="false">b099337a-c351-4abe-89fb-c0594fac9148</guid>
+            <pubDate>Mon, 08 Aug 2016 13:33:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Collection]]></title>
             <description><![CDATA[<article><h1>Collection</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b28be0-48e1-492e-83a1-f57fd41e3660.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc90f55-fe46-492d-9f17-40a9e70bf453.jpg">]]></description>
             <link>https://thegrid.ai/stevegw-aug-artshow/491d3c23-219f-4a2c-9374-bdf7d064aa16/index.html</link>
             <guid isPermaLink="false">491d3c23-219f-4a2c-9374-bdf7d064aa16</guid>
-            <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3b34107-a171-4408-8503-2e4971bbee85.jpg">]]></description>
-            <link>https://thegrid.ai/stevegw-aug-artshow/a0f53d9a-9876-410e-95ed-60114b68b04c/index.html</link>
-            <guid isPermaLink="false">a0f53d9a-9876-410e-95ed-60114b68b04c</guid>
             <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
         </item>
     </channel>
