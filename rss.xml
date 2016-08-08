@@ -4,8 +4,15 @@
         <description><![CDATA[Letting people see is the goal]]></description>
         <link>https://thegrid.ai/stevegw-aug-artshow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 13:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 13:34:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-aug-artshow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f84062-44f5-4740-a548-aed1be71c798.jpg">]]></description>
+            <link>https://thegrid.ai/stevegw-aug-artshow/43130855-0980-4a26-8bbd-7b0d7c7113f3/index.html</link>
+            <guid isPermaLink="false">43130855-0980-4a26-8bbd-7b0d7c7113f3</guid>
+            <pubDate>Mon, 08 Aug 2016 13:34:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fdc7cea-53a8-410e-ae02-8ea663c11fc0.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc799e14-3f47-48d6-b07c-e056e2ab1431.jpg">]]></description>
             <link>https://thegrid.ai/stevegw-aug-artshow/8e624dc9-6702-435d-9af9-d6ad41ebd60d/index.html</link>
             <guid isPermaLink="false">8e624dc9-6702-435d-9af9-d6ad41ebd60d</guid>
-            <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8baf5273-fe9d-4175-9e9a-1f305cd2cb03.jpg">]]></description>
-            <link>https://thegrid.ai/stevegw-aug-artshow/2f4fbbfb-93f2-46f8-8b47-75eec011fa7e/index.html</link>
-            <guid isPermaLink="false">2f4fbbfb-93f2-46f8-8b47-75eec011fa7e</guid>
             <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
         </item>
     </channel>
