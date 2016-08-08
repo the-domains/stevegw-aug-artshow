@@ -4,8 +4,15 @@
         <description><![CDATA[Letting people see is the goal]]></description>
         <link>https://thegrid.ai/stevegw-aug-artshow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 13:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 13:38:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-aug-artshow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc90f55-fe46-492d-9f17-40a9e70bf453.jpg">]]></description>
+            <link>https://thegrid.ai/stevegw-aug-artshow/491d3c23-219f-4a2c-9374-bdf7d064aa16/index.html</link>
+            <guid isPermaLink="false">491d3c23-219f-4a2c-9374-bdf7d064aa16</guid>
+            <pubDate>Mon, 08 Aug 2016 13:38:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e88a457-4687-451c-88bf-e42326fb2985.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/stevegw-aug-artshow/0c6c2c63-89a1-4f15-92c0-78bd0600aba3/index.html</link>
             <guid isPermaLink="false">0c6c2c63-89a1-4f15-92c0-78bd0600aba3</guid>
             <pubDate>Mon, 08 Aug 2016 03:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UNDER COVER]]></title>
-            <description><![CDATA[<article><h1>UNDER COVER</h1><p>Pastel 16x20</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b391ced-6d46-4397-8376-e9b6835edd8e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/stevegw-aug-artshow/9582f6ea-3ace-4815-bc0c-117c5dc546eb/index.html</link>
-            <guid isPermaLink="false">9582f6ea-3ace-4815-bc0c-117c5dc546eb</guid>
-            <pubDate>Mon, 08 Aug 2016 00:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
