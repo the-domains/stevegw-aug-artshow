@@ -4,8 +4,15 @@
         <description><![CDATA[Letting people see is the goal]]></description>
         <link>https://thegrid.ai/stevegw-aug-artshow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 13:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 13:37:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-aug-artshow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d00f1bc4-0eed-47c3-b733-50d50a0705b7.jpg">]]></description>
+            <link>https://thegrid.ai/stevegw-aug-artshow/28c93ea3-1166-47a6-811e-f518e1c08919/index.html</link>
+            <guid isPermaLink="false">28c93ea3-1166-47a6-811e-f518e1c08919</guid>
+            <pubDate>Mon, 08 Aug 2016 13:37:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ddd0742-5627-49d9-a0c5-303bf9219f0a.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba488e79-4155-493c-9cfd-b2ed9d79f4f9.jpg">]]></description>
             <link>https://thegrid.ai/stevegw-aug-artshow/59d87720-0796-4a29-8fb2-d4e2f18bb4b9/index.html</link>
             <guid isPermaLink="false">59d87720-0796-4a29-8fb2-d4e2f18bb4b9</guid>
-            <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d00f1bc4-0eed-47c3-b733-50d50a0705b7.jpg">]]></description>
-            <link>https://thegrid.ai/stevegw-aug-artshow/28c93ea3-1166-47a6-811e-f518e1c08919/index.html</link>
-            <guid isPermaLink="false">28c93ea3-1166-47a6-811e-f518e1c08919</guid>
             <pubDate>Sun, 07 Aug 2016 18:16:21 GMT</pubDate>
         </item>
     </channel>
