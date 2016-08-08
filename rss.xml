@@ -4,8 +4,15 @@
         <description><![CDATA[Letting people see is the goal]]></description>
         <link>https://thegrid.ai/stevegw-aug-artshow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 13:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 13:38:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-aug-artshow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e88a457-4687-451c-88bf-e42326fb2985.jpg">]]></description>
+            <link>https://thegrid.ai/stevegw-aug-artshow/16135935-dd56-4dc9-a623-87aa092d9c46/index.html</link>
+            <guid isPermaLink="false">16135935-dd56-4dc9-a623-87aa092d9c46</guid>
+            <pubDate>Mon, 08 Aug 2016 13:38:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba488e79-4155-493c-9cfd-b2ed9d79f4f9.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/stevegw-aug-artshow/9582f6ea-3ace-4815-bc0c-117c5dc546eb/index.html</link>
             <guid isPermaLink="false">9582f6ea-3ace-4815-bc0c-117c5dc546eb</guid>
             <pubDate>Mon, 08 Aug 2016 00:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sigurd and Fafnir]]></title>
-            <description><![CDATA[<article><h1>Sigurd and Fafnir</h1><p>Oil on Board 18x24</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2a76997-c9dc-4c1a-bb4e-434223af496a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/stevegw-aug-artshow/29cb689d-b397-45cb-b5d4-7281a1cca2c8/index.html</link>
-            <guid isPermaLink="false">29cb689d-b397-45cb-b5d4-7281a1cca2c8</guid>
-            <pubDate>Sun, 07 Aug 2016 23:49:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
