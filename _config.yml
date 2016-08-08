@@ -1,4 +1,4 @@
-typography_spectrum: 0.36427836678922176
+typography_spectrum: 0.8377863159403205
 color:
   brandStrength: 0.07399452500976622
   lightness: 0.13755498244427145
@@ -10,7 +10,7 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-layout_spectrum: 0.8379005081951618
+layout_spectrum: 0.2107005575671792
 name: Aug Art Show
 navigation:
   - name: Home
