@@ -4,8 +4,15 @@
         <description><![CDATA[Letting people see is the goal]]></description>
         <link>https://thegrid.ai/stevegw-aug-artshow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 02:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 02:59:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-aug-artshow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c146878-2b0e-45c4-a05f-d7ff1a70d984.jpg">]]></description>
+            <link>https://thegrid.ai/stevegw-aug-artshow/72877f03-cf77-485a-8056-10689e2a6ab1/index.html</link>
+            <guid isPermaLink="false">72877f03-cf77-485a-8056-10689e2a6ab1</guid>
+            <pubDate>Tue, 09 Aug 2016 02:58:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f84062-44f5-4740-a548-aed1be71c798.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/stevegw-aug-artshow/b099337a-c351-4abe-89fb-c0594fac9148/index.html</link>
             <guid isPermaLink="false">b099337a-c351-4abe-89fb-c0594fac9148</guid>
             <pubDate>Mon, 08 Aug 2016 13:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Collection]]></title>
-            <description><![CDATA[<article><h1>Collection</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b28be0-48e1-492e-83a1-f57fd41e3660.jpg"></article>]]></description>
-            <link>https://thegrid.ai/stevegw-aug-artshow/1b59733e-512e-4d65-b42b-3b4eb00da608/index.html</link>
-            <guid isPermaLink="false">1b59733e-512e-4d65-b42b-3b4eb00da608</guid>
-            <pubDate>Mon, 08 Aug 2016 13:32:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
